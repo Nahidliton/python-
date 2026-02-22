@@ -1,3 +1,3 @@
 p=56.36
-type(p)
+print(type(p))
 print(p)
